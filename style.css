@@ -9,9 +9,7 @@ header {
 	height: 10vh;
 	padding: auto;
 	background: #1D8FF2;
-	/*background: #000000;*/
 	border: 1px solid #000000;
-	/*border: 1px solid #80bedf;*/
 	display: flex;
 	justify-self: flex-end;
 
@@ -21,7 +19,6 @@ header {
 	width: 45%;
 	height: 45px;
 	color: #000000;
-	/*color: #80bedf;*/
 	font-family: "Arial";
 	font-weight: 400;
 	font-size: 1.5em;
@@ -82,7 +79,6 @@ main {
 	height: 42px;
 	padding: 0px 10px;
 	background: #FFB253;
-	/*background: #80bedf;*/
 	border: 1px solid #232323;
 	border-radius: 3px;
 	color: #232323;
@@ -97,7 +93,6 @@ main {
 
 button {
 	background: #FFB253;
-	/*background: #80bedf;*/
 	margin: 15px auto 0;
 	display: block;
 }
@@ -107,9 +102,7 @@ button {
 	height: 311px;
 	padding: 8px;
 	background: #1D8FF2;
-	/*background: #000000;*/
 	border: 1px solid #000000;
-	/*border:1px solid #80bedf;*/
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
@@ -121,7 +114,6 @@ button {
 	width: 85%;
 	height: 188px;
 	color: #000000;
-	/*color: #80bedf;*/
 	font-family: "Arial";
 	font-weight: 400;
 	font-size: 0.8em;
@@ -137,9 +129,7 @@ footer {
 	height: 70px;
 	padding: 8px;
 	background: #1D8FF2;
-	/*background: #000000;*/
 	border: 1px solid #000000;
-	/*border: 1px solid #80bedf;*/
 	position: fixed;
 	bottom: 0;
 }
